@@ -4,7 +4,7 @@ This repository contains code, documentation, and resources related to the SEAIQ
 
 ## About
 
-In this project, we use the SEAIQHRD model to comparing three different pandemics - SARS, Measles, and COVID-19, in order to identify effective mitigation efforts to reduce infectious rates in the future, specifically the effects of quarantining. 
+In this project, we use the SEAIQHRD model to compare three different pandemics - SARS, Measles, and COVID-19, in order to identify effective mitigation efforts to reduce infectious rates in the future, specifically the effects of quarantining. 
 
 
 ## Model Description
