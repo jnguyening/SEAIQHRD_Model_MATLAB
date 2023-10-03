@@ -30,4 +30,4 @@ The "Report Math 435" PDF file contains a comprehensive analysis of the SEAIQHRD
 - Analysis of epidemic scenarios and simulations.
 - Conclusions and discussions based on the analysis.
 
-The "MATLAB" docx contains the MATLAB code for the SEAIQHRD Model as well and instructions on how to run it properly. 
+The "MATLAB" docx contains the MATLAB code for the SEAIQHRD Model as well as instructions on how to run it properly. 
