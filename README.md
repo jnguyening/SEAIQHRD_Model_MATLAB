@@ -1,6 +1,6 @@
 # SEAIQHRD Epidemic Model
 
-This repository contains MATLAB code, documentation, and resources related to the SEAIQHRD epidemic model. The SEAIQHRD model is an epidemiological model used to study the spread of infectious diseases with a more detailed representation of disease stages compared to simpler models like SIR or SEIR.
+This repository contains MATLAB code and documentation related to the SEAIQHRD epidemic model. The SEAIQHRD model is an epidemiological model used to study the spread of infectious diseases with a more detailed representation of disease stages compared to simpler models like SIR or SEIR.
 
 ## About
 
